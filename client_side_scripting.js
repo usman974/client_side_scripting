@@ -124,15 +124,6 @@ froggy.ui.form.on('Client Side Scripting', {
 		// 		froggy.throw("after_cancel event")
 // 	} 	// ye bd ma ay ga
 
-
-
-
-
-
-
-
-	
-
 });
 
 
